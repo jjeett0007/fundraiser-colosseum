@@ -1,0 +1,6 @@
+[submodule "frontend/fundraisers"]
+	path = frontend/fundraisers
+	url = https://github.com/jjeett0007/fundraiser.git
+[submodule "backend/fundraisers-api"]
+	path = backend/fundraisers-api
+	url = https://github.com/jjeett0007/fundraiser-api.git
