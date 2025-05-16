@@ -4,3 +4,6 @@
 [submodule "backend/fundraisers-api"]
 	path = backend/fundraisers-api
 	url = https://github.com/jjeett0007/fundraiser-api.git
+[submodule "backend/fundraisers-api-backend"]
+	path = backend/fundraisers-api-backend
+	url = https://github.com/jjeett0007/fundraiser-api.git
