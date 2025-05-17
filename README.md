@@ -40,5 +40,5 @@ EmergFunds is a decentralized crowdfunding platform built with Next.js, Solana, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-org/emergfunds.git
+   git clone https://github.com/jjeett0007/fundraiser-colosseum.git
    cd emergfunds
